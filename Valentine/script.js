@@ -1,5 +1,5 @@
 const CONFIG = {
-    mainQuestion: "Will you be my Valentine Dina sayang?",
+    mainQuestion: "Dina sayang, will you be my Valentine?",
     subQuestion: "Please say yes yang ",
     yesButton: "YES",
     noButton: "NO",
@@ -9,13 +9,13 @@ const CONFIG = {
     badgeText: "My Valentineee",
     nextButton: "Lanjut yangg ",
     repeatButton: "Ulangi pertanyaan",
-    flowerTitle: "Ini kado spesial buat kamu yangg",
+    flowerTitle: "Ini kado spesial buat kamu sayangg kuu",
     takeBouquetButton: "Terima hadiahnya ",
     bouquetMessage: "Yeay! Udah jadi milik sayangg kuu 💕",
     nextFlowerButton: "Next ",
-    collageTitle: "My Beautiful Dinaa sayangg",
+    collageTitle: "My Beautiful Dinaa 💗",
     collageSubtitle: "Sejak kamu hadir, hal sederhana pun terasa istimewa. Happy Valentine, my favorite person. 💕",
-    nextCollageButton: "Satu halaman lagi yangg ",
+    nextCollageButton: "Satu halaman lagi cantikkk ",
     finalTitle: "Happy Valentine, My Love 💞",
     finalMessage: `Happy Valentine ya sayangku Dinaa 🤍
                             Aku gak bisa janji hubungan kita bakal selalu gampang, karena aku tau setiap hubungan pasti ada cobaan.
